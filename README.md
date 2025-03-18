@@ -40,6 +40,7 @@ o	Si el libro no existe, se informa al usuario que no se encontró.
 o	El sistema permite al usuario ver todos los libros registrados en el inventario.
 o	Recorre el arreglo inventario y muestra la información de cada libro (ISBN, título, autor, año de publicación y disponibilidad).
 o	Si no hay libros registrados, se muestra un mensaje indicando que el inventario está vacío.
+
 7. ### Menú Principal
 
 Proceso: El sistema muestra un menú interactivo con las siguientes opciones:
